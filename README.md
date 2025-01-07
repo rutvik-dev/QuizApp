@@ -1,4 +1,4 @@
-
+![logo](https://github.com/rutvik-dev/QuizApp/blob/main/(Rutvik%20Vora)%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rutvik Vora</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
